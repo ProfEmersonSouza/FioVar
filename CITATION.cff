@@ -7,6 +7,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-4123-0788"
 title: "FioVar: um software de código aberto para processamento de dados sociolinguísticos"
 version: "0.1.0-alpha"
+doi:"10.5281/zenodo.23934015"
 date-released: 2026-11-03
 repository-code: "https://github.com/ProfEmersonSouza/FioVar"
 url: "https://github.com/ProfEmersonSouza/FioVar"
