@@ -49,9 +49,7 @@ Também estão previstos protocolos para os seguintes fenômenos:
 
 ## Como citar
 
-Para citar a revisão disponível neste repositório:
-
-SOUZA, Emerson Santos de. **FioVar: um software de código aberto para processamento de dados sociolinguísticos**. Versão v0.1.1-alpha. GitHub, 2026. Software.
+SOUZA, Emerson Santos de. **FioVar: um software de código aberto para processamento de dados sociolinguísticos**. Versão v0.1.1-alpha. Zenodo, 2026. Software. [DOI 10.5281/zenodo.24053657](https://doi.org/10.5281/zenodo.24053657).
 
 
 ## Autoria e contribuições
